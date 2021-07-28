@@ -57,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Safely Work With Nested Objects in JavaScript](https://betterprogramming.pub/how-to-safely-work-with-nested-objects-in-javascript-aed39fb8bad2?source=rss-6e3dfc7b6a86------2)
+- [Getting Started with Lodash in JavaScript](https://medium.com/daily-programming-tips/getting-started-with-lodash-in-javascript-9df4d6380f51?source=rss-6e3dfc7b6a86------2)
+- [5 Simple Steps to Package an Existing TypeScript Project & Release it to NPM](https://javascript.plainenglish.io/5-simple-steps-to-package-an-existing-typescript-project-release-it-to-npm-e0497f7af376?source=rss-6e3dfc7b6a86------2)
+- [Some Experiments using GitHub Copilot with Python](https://towardsdatascience.com/some-experiments-using-github-copilot-with-python-90f8065fb72e?source=rss-6e3dfc7b6a86------2)
+- [A cheat sheet for JavaScript’s Axios to consume APIs in JavaScript](https://medium.com/daily-programming-tips/a-cheat-sheet-for-javascripts-axios-to-consume-apis-in-javascript-b37e37bad919?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://a4rafgehad.ninja/)
