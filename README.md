@@ -54,14 +54,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [System Design: Basics](https://a4rafgehad.ninja/blog/SystemDesignBasics)
-- [System Design: Load balancer](https://a4rafgehad.ninja/blog/loadbalancer)
-- [Registry HTB writeup](https://a4rafgehad.ninja/blog/Registry)
-- [Sniper HTB writeup](https://a4rafgehad.ninja/blog/Sniper)
-- [Forest HTB writeup](https://a4rafgehad.ninja/blog/Forest)
+- [How Internet Works: Part1 (DNS)](https://a4raf-gehad.netlify.app/blog/What-Really-Happens-When-You-Type-Reddit.com-into-your-browser-1)
+- [How Internet Works: Part2 (Network)](https://a4raf-gehad.netlify.app/blog/What-Really-Happens-When-You-Type-Reddit.com-into-your-browser-2)
+- [How Internet Works: Part3 (Browser)](https://a4raf-gehad.netlify.app/blog/What-Really-Happens-When-You-Type-Reddit.com-into-your-browser-2)
+- [System Design: Basics](https://a4raf-gehad.netlify.app/blog/SystemDesignBasics)
+- [System Design: Load balancer](https://a4raf-gehad.netlify.app/blog/loadbalancer)
+- [Registry HTB writeup](https://a4raf-gehad.netlify.app/blog/Registry)
+- [Sniper HTB writeup](https://a4raf-gehad.netlify.app/blog/Sniper)
+- [Forest HTB writeup](https://a4raf-gehad.netlify.app/blog/Forest)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://a4rafgehad.ninja/)
+➡️ [more blog posts...](https://a4raf-gehad.netlify.app/)
 
 ---
